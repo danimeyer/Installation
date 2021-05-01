@@ -5,23 +5,23 @@ Update settings:
 - Scroll down to find "edit in settings.json" and copy in the below code
 ~~~~
 {
-    "editor.renderIndentGuides": true,
-    "editor.renderWhitespace": "boundary",
-    "editor.renderControlCharacters": false,
-    "editor.rulers": [80, 100],
-    "editor.tabSize": 2,
-    "editor.trimAutoWhitespace": false,
-    "editor.wordWrap": "on",
-    "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true,
-    "files.associations": {
-      ".gitignore": "shellscript"
-    },
-    "emmet.syntaxProfiles": { "javascript": "jsx" },
-    "window.title": "${activeEditorMedium}${separator}${rootName}",
-    "workbench.colorCustomizations": {
-      "editorWarning.foreground": "#ec0"
-    }
+  "editor.renderIndentGuides": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.renderControlCharacters": false,
+  "editor.rulers": [80, 100],
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": false,
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.associations": {
+    ".gitignore": "shellscript"
+  },
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "workbench.colorCustomizations": {
+    "editorWarning.foreground": "#ec0"
+  }
 }
 ~~~~
 - Set up `code .`:
