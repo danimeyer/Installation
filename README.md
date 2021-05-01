@@ -22,7 +22,7 @@ Update settings:
     "workbench.colorCustomizations": {
       "editorWarning.foreground": "#ec0"
     }
-  }
+}
 ~~~~
 - Set up `code .`:
     - Type ⌘ + P
