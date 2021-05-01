@@ -2,7 +2,7 @@
 https://code.visualstudio.com/
 Update settings:
 - Type ⌘,
-- Scroll down to find "edit in settings.json"
+- Scroll down to find "edit in settings.json" and copy in the below code
 ~~~~
 {
     "editor.renderIndentGuides": true,
