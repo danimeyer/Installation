@@ -1,7 +1,7 @@
 ## Install VS Code
 https://code.visualstudio.com/
 Update settings:
-- Type ⌘,
+- Type ⌘ + ,
 - Scroll down to find "edit in settings.json" and copy in the below code
 ~~~~
 {
